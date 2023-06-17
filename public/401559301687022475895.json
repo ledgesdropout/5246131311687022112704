@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "990303421129",
+    "project_id": "cek-bansos-bpum",
+    "storage_bucket": "cek-bansos-bpum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990303421129:android:f4dfe88085e5c3aba5c318",
+        "android_client_info": {
+          "package_name": "com.mediatechnopro.cekbpum1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990303421129-ide71c7cp0l326mlvorfnh46cie92ab4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2R2i9oLTX2_aHA7VttHazn3wDFuxY090"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990303421129-ide71c7cp0l326mlvorfnh46cie92ab4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
