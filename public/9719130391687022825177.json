@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "877518850719",
+    "project_id": "bacaan-sholat-lengkap-shahih",
+    "storage_bucket": "bacaan-sholat-lengkap-shahih.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877518850719:android:00cc504675e336cd1730aa",
+        "android_client_info": {
+          "package_name": "com.mediatechnopro.bacaanshalatlengkap1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877518850719-t3fd2n60mbfm3nerkiit4qj822gt85qs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiWnVFtLZZYa1gncOxF41_YrT3Qlf5sPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877518850719-t3fd2n60mbfm3nerkiit4qj822gt85qs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
